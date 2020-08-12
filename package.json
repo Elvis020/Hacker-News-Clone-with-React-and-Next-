@@ -1,0 +1,24 @@
+{
+  "name": "hakers-news-clone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Elvis020/Hacker-News-Clone-with-React-and-Next-.git"
+  },
+  "author": "Elvis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Elvis020/Hacker-News-Clone-with-React-and-Next-/issues"
+  },
+  "homepage": "https://github.com/Elvis020/Hacker-News-Clone-with-React-and-Next-#readme",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
